@@ -17,7 +17,7 @@ This homelab serves as both a personal learning environment and a reference for 
 
 Tech Stack / Tools:
 
-Hypervisors: VirtualBox, VMware, Proxmox
+Hypervisors: VirtualBox
 
 OS: Ubuntu Server, Windows Server
 
